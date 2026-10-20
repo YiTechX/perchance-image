@@ -1,0 +1,318 @@
+[
+  {
+    "text": "Painted Anime",
+    "value": "ref:optionKeyName:Painted Anime"
+  },
+  {
+    "text": "Casual Photo",
+    "value": "ref:optionKeyName:Casual Photo"
+  },
+  {
+    "text": "Cinematic",
+    "value": "ref:optionKeyName:Cinematic"
+  },
+  {
+    "text": "Digital Painting",
+    "value": "ref:optionKeyName:Digital Painting"
+  },
+  {
+    "text": "Concept Art",
+    "value": "ref:optionKeyName:Concept Art"
+  },
+  {
+    "text": "𝗡𝗼 𝘀𝘁𝘆𝗹𝗲",
+    "value": "ref:optionKeyName:𝗡𝗼 𝘀𝘁𝘆𝗹𝗲"
+  },
+  {
+    "text": "3D Disney Character",
+    "value": "ref:optionKeyName:3D Disney Character"
+  },
+  {
+    "text": "2D Disney Character",
+    "value": "ref:optionKeyName:2D Disney Character"
+  },
+  {
+    "text": "Disney Sketch",
+    "value": "ref:optionKeyName:Disney Sketch"
+  },
+  {
+    "text": "Concept Sketch",
+    "value": "ref:optionKeyName:Concept Sketch"
+  },
+  {
+    "text": "Painterly",
+    "value": "ref:optionKeyName:Painterly"
+  },
+  {
+    "text": "Oil Painting",
+    "value": "ref:optionKeyName:Oil Painting"
+  },
+  {
+    "text": "Oil Painting - Realism",
+    "value": "ref:optionKeyName:Oil Painting - Realism"
+  },
+  {
+    "text": "Oil Painting - Old",
+    "value": "ref:optionKeyName:Oil Painting - Old"
+  },
+  {
+    "text": "Oil Painting - 70s Pulp",
+    "value": "ref:optionKeyName:Oil Painting - 70s Pulp"
+  },
+  {
+    "text": "Professional Photo",
+    "value": "ref:optionKeyName:Professional Photo"
+  },
+  {
+    "text": "Anime",
+    "value": "ref:optionKeyName:Anime"
+  },
+  {
+    "text": "Drawn Anime",
+    "value": "ref:optionKeyName:Drawn Anime"
+  },
+  {
+    "text": "Anime Screencap",
+    "value": "ref:optionKeyName:Anime Screencap"
+  },
+  {
+    "text": "Cute Anime",
+    "value": "ref:optionKeyName:Cute Anime"
+  },
+  {
+    "text": "Soft Anime",
+    "value": "ref:optionKeyName:Soft Anime"
+  },
+  {
+    "text": "Fantasy Painting",
+    "value": "ref:optionKeyName:Fantasy Painting"
+  },
+  {
+    "text": "Fantasy Landscape",
+    "value": "ref:optionKeyName:Fantasy Landscape"
+  },
+  {
+    "text": "Fantasy Portrait",
+    "value": "ref:optionKeyName:Fantasy Portrait"
+  },
+  {
+    "text": "Studio Ghibli",
+    "value": "ref:optionKeyName:Studio Ghibli"
+  },
+  {
+    "text": "50s Enamel Sign",
+    "value": "ref:optionKeyName:50s Enamel Sign"
+  },
+  {
+    "text": "Vintage Comic",
+    "value": "ref:optionKeyName:Vintage Comic"
+  },
+  {
+    "text": "Franco-Belgian Comic",
+    "value": "ref:optionKeyName:Franco-Belgian Comic"
+  },
+  {
+    "text": "Tintin Comic",
+    "value": "ref:optionKeyName:Tintin Comic"
+  },
+  {
+    "text": "Medieval",
+    "value": "ref:optionKeyName:Medieval"
+  },
+  {
+    "text": "Pixel Art",
+    "value": "ref:optionKeyName:Pixel Art"
+  },
+  {
+    "text": "Furry - Oil",
+    "value": "ref:optionKeyName:Furry - Oil"
+  },
+  {
+    "text": "Furry - Cinematic",
+    "value": "ref:optionKeyName:Furry - Cinematic"
+  },
+  {
+    "text": "Furry - Painted",
+    "value": "ref:optionKeyName:Furry - Painted"
+  },
+  {
+    "text": "Furry - Drawn",
+    "value": "ref:optionKeyName:Furry - Drawn"
+  },
+  {
+    "text": "Cute Figurine",
+    "value": "ref:optionKeyName:Cute Figurine"
+  },
+  {
+    "text": "3D Emoji",
+    "value": "ref:optionKeyName:3D Emoji"
+  },
+  {
+    "text": "Illustration",
+    "value": "ref:optionKeyName:Illustration"
+  },
+  {
+    "text": "Cute Illustration",
+    "value": "ref:optionKeyName:Cute Illustration"
+  },
+  {
+    "text": "Flat Illustration",
+    "value": "ref:optionKeyName:Flat Illustration"
+  },
+  {
+    "text": "Watercolor",
+    "value": "ref:optionKeyName:Watercolor"
+  },
+  {
+    "text": "1990s Photo",
+    "value": "ref:optionKeyName:1990s Photo"
+  },
+  {
+    "text": "1980s Photo",
+    "value": "ref:optionKeyName:1980s Photo"
+  },
+  {
+    "text": "1970s Photo",
+    "value": "ref:optionKeyName:1970s Photo"
+  },
+  {
+    "text": "1960s Photo",
+    "value": "ref:optionKeyName:1960s Photo"
+  },
+  {
+    "text": "1950s Photo",
+    "value": "ref:optionKeyName:1950s Photo"
+  },
+  {
+    "text": "1940s Photo",
+    "value": "ref:optionKeyName:1940s Photo"
+  },
+  {
+    "text": "1930s Photo",
+    "value": "ref:optionKeyName:1930s Photo"
+  },
+  {
+    "text": "1920s Photo",
+    "value": "ref:optionKeyName:1920s Photo"
+  },
+  {
+    "text": "Vintage Pulp Art",
+    "value": "ref:optionKeyName:Vintage Pulp Art"
+  },
+  {
+    "text": "50s Infomercial Anime",
+    "value": "ref:optionKeyName:50s Infomercial Anime"
+  },
+  {
+    "text": "3D Pokemon",
+    "value": "ref:optionKeyName:3D Pokemon"
+  },
+  {
+    "text": "Painted Pokemon",
+    "value": "ref:optionKeyName:Painted Pokemon"
+  },
+  {
+    "text": "2D Pokemon",
+    "value": "ref:optionKeyName:2D Pokemon"
+  },
+  {
+    "text": "Vintage Anime",
+    "value": "ref:optionKeyName:Vintage Anime"
+  },
+  {
+    "text": "Neon Vintage Anime",
+    "value": "ref:optionKeyName:Neon Vintage Anime"
+  },
+  {
+    "text": "Manga",
+    "value": "ref:optionKeyName:Manga"
+  },
+  {
+    "text": "Fantasy World Map",
+    "value": "ref:optionKeyName:Fantasy World Map"
+  },
+  {
+    "text": "Fantasy City Map",
+    "value": "ref:optionKeyName:Fantasy City Map"
+  },
+  {
+    "text": "Old World Map",
+    "value": "ref:optionKeyName:Old World Map"
+  },
+  {
+    "text": "3D Isometric Icon",
+    "value": "ref:optionKeyName:3D Isometric Icon"
+  },
+  {
+    "text": "Flat Style Icon",
+    "value": "ref:optionKeyName:Flat Style Icon"
+  },
+  {
+    "text": "Flat Style Logo",
+    "value": "ref:optionKeyName:Flat Style Logo"
+  },
+  {
+    "text": "Game Art Icon",
+    "value": "ref:optionKeyName:Game Art Icon"
+  },
+  {
+    "text": "Digital Painting Icon",
+    "value": "ref:optionKeyName:Digital Painting Icon"
+  },
+  {
+    "text": "Concept Art Icon",
+    "value": "ref:optionKeyName:Concept Art Icon"
+  },
+  {
+    "text": "Cute 3D Icon",
+    "value": "ref:optionKeyName:Cute 3D Icon"
+  },
+  {
+    "text": "Cute 3D Icon 𝗦𝗲𝘁",
+    "value": "ref:optionKeyName:Cute 3D Icon 𝗦𝗲𝘁"
+  },
+  {
+    "text": "Crayon Drawing",
+    "value": "ref:optionKeyName:Crayon Drawing"
+  },
+  {
+    "text": "Pencil",
+    "value": "ref:optionKeyName:Pencil"
+  },
+  {
+    "text": "Tattoo Design",
+    "value": "ref:optionKeyName:Tattoo Design"
+  },
+  {
+    "text": "Waifu",
+    "value": "ref:optionKeyName:Waifu"
+  },
+  {
+    "text": "YuGiOh Art",
+    "value": "ref:optionKeyName:YuGiOh Art"
+  },
+  {
+    "text": "Traditional Japanese",
+    "value": "ref:optionKeyName:Traditional Japanese"
+  },
+  {
+    "text": "Nihonga Painting",
+    "value": "ref:optionKeyName:Nihonga Painting"
+  },
+  {
+    "text": "Claymation",
+    "value": "ref:optionKeyName:Claymation"
+  },
+  {
+    "text": "Cartoon",
+    "value": "ref:optionKeyName:Cartoon"
+  },
+  {
+    "text": "Cursed Photo",
+    "value": "ref:optionKeyName:Cursed Photo"
+  },
+  {
+    "text": "MTG Card",
+    "value": "ref:optionKeyName:MTG Card"
+  }
+]
